@@ -1,0 +1,32 @@
+.conatiner{
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 0px 4px 3px rgb(196, 196, 196);
+    padding: 44px;
+    border-radius: 4px;
+    margin-top: 35px;
+    font-family: "Roboto", sans-serif;
+}
+.conatiner h1{
+    font-size: 70px;
+}
+.conatiner button{
+    width: 100px;
+    height: 36px;
+    font-size: 20px;
+    border: none;
+    margin-inline: 11px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.start{
+    background-color: rgb(5, 231, 5);
+}
+.stop{
+    background-color: rgb(250, 16, 16);
+}
+.reset{
+    background-color: rgb(250, 185, 8);
+}
